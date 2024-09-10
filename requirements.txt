@@ -1,3 +1,5 @@
+python_version = "3.9"
+pandas-profiling==3.2.0
 asgiref==3.5.2
 astroid==2.12.13
 async-generator==1.10
